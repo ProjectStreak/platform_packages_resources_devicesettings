@@ -38,7 +38,6 @@
     <string name="touchscreen_e_gesture_summary">Desenhe um \"e\" para abrir o aplicativo de e-mail</string>
     <string name="touchscreen_m_gesture_title">Mensagens</string>
     <string name="touchscreen_m_gesture_summary">Desenhe um \"M\" para abrir o aplicativo de mensagens</string>
-    <string name="touchscreen_s_gesture_title">Mensagens</string>
     <string name="touchscreen_s_gesture_summary">Desenhe um \"S\" para abrir o aplicativo de mensagens</string>
     <string name="touchscreen_v_gesture_title">Discador</string>
     <string name="touchscreen_v_gesture_summary">Desenhe um \"V\" para abrir o aplicativo de discagem</string>
@@ -46,7 +45,6 @@
     <string name="touchscreen_w_gesture_summary">Desenhe um \"W\" para abrir o aplicativo de navegador</string>
     <string name="touchscreen_z_gesture_title">Lanterna</string>
     <string name="touchscreen_z_gesture_summary">Desenhe um \'Z\' para ligar/desligar a lanterna</string>
-    <string name="touchscreen_flashlight_gesture_title">Lanterna</string>
     <string name="touchscreen_flashlight_gesture_summary">Desenhe um círculo para ligar/desligar a lanterna</string>
     <string name="touchscreen_music_gesture_title">Música</string>
     <string name="touchscreen_music_gesture_summary">Use gestos para controlar a reprodução de música\n
@@ -66,7 +64,6 @@
     <string name="ambient_display_enable_summary">Ligar tela ao receber notificações</string>
     <string name="ambient_display_gestures_title">Gestos do modo tela ambiente</string>
     <string name="ambient_display_gestures_summary">Gestos adicionais para ligar a tela</string>
-    <string name="ambient_display_summary">Ligar tela ao receber notificações</string>
     <string name="ambient_display_summary_on">A tela ligará ao receber notificações</string>
     <string name="ambient_display_summary_off">A tela não ligará ao receber notificações</string>
     <string name="ambient_display_always_on_title">Sempre ligada</string>
@@ -90,7 +87,6 @@
     <string name="pocket_gesture_summary">Pulsar notificações após remover do bolso</string>
     <!-- Proximity wake -->
     <string name="proximity_wake_title">Acordar por proximidade</string>
-    <string name="proximity_wake_enable_title">Acordar por proximidade</string>
     <string name="proximity_wake_enable_summary">Acordar dispositivo quando chacoalhar a mão</string>
     <!-- Device actions -->
     <string name="actions_title">Ações</string>
@@ -124,7 +120,6 @@
     <string name="feedback_intensity_high">Alta</string>
     <!-- Dialog texts -->
     <!-- Generic texts -->
-    <string name="disabled">Desativado</string>
     <!-- Help texts -->
     <string name="doze_settings_help_title">Ajuda</string>
     <string name="doze_settings_help_text">Esses recursos monitoram o sensor para que o dispositivo possa despertar do estado de repouso e pulsar notificações. O sensor escolhido só é habilitado quando o dispositivo recebe uma notificação, isso ajuda a reduzir o uso de bateria. Há também uma opção para ativar o sensor escolhido assim que a tela desliga, isso causará o maior uso da bateria.</string>
