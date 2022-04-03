@@ -38,6 +38,7 @@
     <string name="touchscreen_e_gesture_summary">Desenhe um \"e\" para abrir a aplicação de e-mail</string>
     <string name="touchscreen_m_gesture_title">Mensagens</string>
     <string name="touchscreen_m_gesture_summary">Desenhe um \"M\" para abrir a aplicação de mensagens</string>
+    <string name="touchscreen_s_gesture_title">Mensagens</string>
     <string name="touchscreen_s_gesture_summary">Desenhe um \"S\" para abrir a aplicação de mensagens</string>
     <string name="touchscreen_v_gesture_title">Telefone</string>
     <string name="touchscreen_v_gesture_summary">Desenhe um \"V\" para abrir a aplicação de telefone</string>
@@ -45,6 +46,7 @@
     <string name="touchscreen_w_gesture_summary">Desenhe um \"W\" para abrir a aplicação do navegador</string>
     <string name="touchscreen_z_gesture_title">Lanterna</string>
     <string name="touchscreen_z_gesture_summary">Desenhe um \"Z\" para ligar/desligar a lanterna</string>
+    <string name="touchscreen_flashlight_gesture_title">Lanterna</string>
     <string name="touchscreen_flashlight_gesture_summary">Desenhe um círculo para ligar/desligar a lanterna</string>
     <string name="touchscreen_music_gesture_title">Música</string>
     <string name="touchscreen_music_gesture_summary">Utilize gestos para controlar a reprodução da música \n
@@ -64,6 +66,7 @@
     <string name="ambient_display_enable_summary">Ligar o ecrã quando receber notificações</string>
     <string name="ambient_display_gestures_title">Gestos da visualização ambiente</string>
     <string name="ambient_display_gestures_summary">Gestos adicionais para ativar o ecrã</string>
+    <string name="ambient_display_summary">Ligar o ecrã quando receber notificações</string>
     <string name="ambient_display_summary_on">O ecrã irá acordar quando receber notificações</string>
     <string name="ambient_display_summary_off">O ecrã não irá acordar quando receber notificações</string>
     <string name="ambient_display_always_on_title">Sempre ligada</string>
@@ -88,6 +91,7 @@
     <string name="pocket_gesture_summary">Mostrar notificações ao retirar do bolso</string>
     <!-- Proximity wake -->
     <string name="proximity_wake_title">Sensor de proximidade</string>
+    <string name="proximity_wake_enable_title">Sensor de proximidade</string>
     <string name="proximity_wake_enable_summary">Ligar o dispositivo ao passar a mão pelo sensor de proximidade</string>
     <!-- Device actions -->
     <string name="actions_title">Ações</string>
@@ -121,6 +125,7 @@
     <string name="feedback_intensity_high">Alta</string>
     <!-- Dialog texts -->
     <!-- Generic texts -->
+    <string name="disabled">Desativada</string>
     <!-- Help texts -->
     <string name="doze_settings_help_title">Ajuda</string>
     <string name="doze_settings_help_text">Estes recursos utilizam eventos de sensores para mostrarem notificações enquanto o dispositivo está em repouso. O sensor escolhido só é ativado quando o dispositivo recebe uma notificação, o que ajuda a reduzir a utilização da bateria. Há também uma opção para ativar o sensor escolhido assim que o ecrã se desliga, o que resultará numa maior utilização da bateria.</string>
