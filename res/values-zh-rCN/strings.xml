@@ -125,7 +125,6 @@
     <string name="feedback_intensity_medium">中</string>
     <string name="feedback_intensity_high">高</string>
     <!-- Dialog texts -->
-    <string name="dialog_ok">OK</string>
     <!-- Generic texts -->
     <string name="disabled">已禁用</string>
     <!-- Help texts -->
