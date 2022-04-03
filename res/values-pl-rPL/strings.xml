@@ -65,6 +65,7 @@
     <string name="ambient_display_enable_summary">Wybudź ekran po otrzymaniu powiadomienia</string>
     <string name="ambient_display_gestures_title">Gesty ekranu dostosowanego do otoczenia</string>
     <string name="ambient_display_gestures_summary">Dodatkowe gesty do wybudzenia ekranu</string>
+    <string name="ambient_display_summary">Wybudź ekran po otrzymaniu powiadomienia</string>
     <string name="ambient_display_summary_on">Ekran zostanie wybudzony po otrzymaniu powiadomienia</string>
     <string name="ambient_display_summary_off">Ekran nie wybudzi się po otrzymaniu powiadomienia</string>
     <string name="ambient_display_always_on_title">Zawsze włączony</string>
@@ -83,7 +84,9 @@
     <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Podnieś</string>
     <string name="pick_up_gesture_summary">Pulsujące powiadomienia podczas podnoszenia</string>
+    <string name="pick_up_wake_gesture_summary">Wybudź urządzenie przy podniesieniu</string>
     <!-- Pocket gesture -->
+    <string name="pocket_gesture_title">Tryb kieszonkowy</string>
     <!-- Proximity wake -->
     <!-- Device actions -->
     <!-- Camera gesture -->
