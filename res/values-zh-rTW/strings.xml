@@ -39,7 +39,6 @@
     <string name="touchscreen_e_gesture_summary">畫出一個「e」即可開啟電子郵件應用程式</string>
     <string name="touchscreen_m_gesture_title">簡訊</string>
     <string name="touchscreen_m_gesture_summary">畫出一個「M」即可開啟簡訊應用程式</string>
-    <string name="touchscreen_s_gesture_title">簡訊</string>
     <string name="touchscreen_s_gesture_summary">畫出一個「S」即可開啟簡訊應用程式</string>
     <string name="touchscreen_v_gesture_title">撥號程式</string>
     <string name="touchscreen_v_gesture_summary">畫出一個「V」即可開啟撥號應用程式</string>
@@ -47,7 +46,6 @@
     <string name="touchscreen_w_gesture_summary">畫出一個「W」即可開啟瀏覽器應用程式</string>
     <string name="touchscreen_z_gesture_title">手電筒</string>
     <string name="touchscreen_z_gesture_summary">畫出一個「Z」即可切換至手電筒</string>
-    <string name="touchscreen_flashlight_gesture_title">手電筒</string>
     <string name="touchscreen_flashlight_gesture_summary">畫出一個圓圈即可切換至手電筒</string>
     <string name="touchscreen_music_gesture_title">音樂</string>
     <string name="touchscreen_music_gesture_summary">使用手勢控制音樂播放 \n
@@ -67,7 +65,6 @@
     <string name="ambient_display_enable_summary">收到通知時喚醒螢幕</string>
     <string name="ambient_display_gestures_title">環境顯示手勢</string>
     <string name="ambient_display_gestures_summary">附加手勢來喚醒螢幕</string>
-    <string name="ambient_display_summary">收到通知時喚醒螢幕</string>
     <string name="ambient_display_summary_on">收到通知時將喚醒螢幕</string>
     <string name="ambient_display_summary_off">收到通知時將不會喚醒螢幕</string>
     <string name="ambient_display_always_on_title">一律開啟</string>
@@ -92,7 +89,6 @@
     <string name="pocket_gesture_summary">從口袋中取出時閃爍呼吸燈</string>
     <!-- Proximity wake -->
     <string name="proximity_wake_title">距離喚醒</string>
-    <string name="proximity_wake_enable_title">距離喚醒</string>
     <string name="proximity_wake_enable_summary">揮手時喚醒裝置</string>
     <!-- Device actions -->
     <string name="actions_title">動作</string>
@@ -126,7 +122,6 @@
     <string name="feedback_intensity_high">高</string>
     <!-- Dialog texts -->
     <!-- Generic texts -->
-    <string name="disabled">已停用</string>
     <!-- Help texts -->
     <string name="doze_settings_help_title">說明</string>
     <string name="doze_settings_help_text">這些功能使用各種感應器來感測即可觸發休眠閃爍呼吸燈，所選的感應器僅在裝置收到通知時才被啟動，達致減低耗電量。此外還有一個選項可以在每當螢幕關閉時馬上啟動感應器，當然這會消耗更多的電量。</string>
