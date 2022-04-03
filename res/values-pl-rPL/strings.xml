@@ -44,14 +44,45 @@
     <string name="touchscreen_w_gesture_title">Przeglądarka</string>
     <string name="touchscreen_w_gesture_summary">Narysuj \"W\", aby otworzyć przeglądarkę</string>
     <string name="touchscreen_z_gesture_title">Latarka</string>
+    <string name="touchscreen_z_gesture_summary">Narysuj \"Z\", aby włączyć latarkę</string>
     <string name="touchscreen_flashlight_gesture_title">Latarka</string>
+    <string name="touchscreen_flashlight_gesture_summary">Narysuj kółko, aby włączyć/wyłączyć latarkę</string>
+    <string name="touchscreen_music_gesture_title">Muzyka</string>
+    <string name="touchscreen_music_gesture_summary">Użyj gestów do kontrolowania odtwarzacza muzyki \n
+    • Przesuń w dół, aby spauzować\n
+    • Przesuń w lewo, aby przełączyć na poprzedni utwór\n
+    • Przesuń w prawo, aby przełączyć na następny utwór</string>
+    <string name="touchscreen_swipe_up_title">Przesuń w górę</string>
+    <string name="touchscreen_swipe_right_title">Przesuń w prawo</string>
+    <string name="touchscreen_swipe_down_title">Przesuń w dół</string>
+    <string name="touchscreen_swipe_left_title">Przesunięcie w lewo</string>
     <!-- User-aware display -->
+    <string name="user_aware_display_title">Aktywny ekran podczas spoglądania na niego</string>
+    <string name="user_aware_display_summary">Utrzymuj ekran włączony, gdy użytkownik spogląda na ekran</string>
     <!-- Ambient Display -->
+    <string name="ambient_display_title">Ekran dostosowany do otoczenia</string>
+    <string name="ambient_display_enable_title">Używaj ekranu dostosowanego do otoczenia</string>
+    <string name="ambient_display_enable_summary">Wybudź ekran po otrzymaniu powiadomienia</string>
+    <string name="ambient_display_gestures_title">Gesty ekranu dostosowanego do otoczenia</string>
+    <string name="ambient_display_gestures_summary">Dodatkowe gesty do wybudzenia ekranu</string>
+    <string name="ambient_display_summary_on">Ekran zostanie wybudzony po otrzymaniu powiadomienia</string>
+    <string name="ambient_display_summary_off">Ekran nie wybudzi się po otrzymaniu powiadomienia</string>
+    <string name="ambient_display_always_on_title">Zawsze włączony</string>
+    <string name="ambient_display_always_on_summary">Pokazuj godzinę, ikony powiadomień oraz inne informacje. Zwiększy to użycie baterii.</string>
     <!-- Tilt sensor -->
+    <string name="tilt_sensor_title">Czujnik pochylenia</string>
     <!-- Pickup sensor -->
+    <string name="pickup_sensor_title">Czujnik podnoszenia</string>
     <!-- Proximity sensor -->
+    <string name="proximity_sensor_title">Czujnik zbliżenia</string>
     <!-- Hand wave gesture -->
+    <string name="hand_wave_gesture_title">Machnij ręką</string>
+    <string name="hand_wave_gesture_summary">Puls powiadomienia przy machnięciu ręką</string>
+    <string name="hand_wave_gesture_flat_title">Wykrywanie orientacji</string>
+    <string name="hand_wave_gesture_flat_summary">Pulsuj tylko wtedy, gdy telefon leży ekranem do góry na płaskiej powierzchni</string>
     <!-- Pick-up gesture -->
+    <string name="pick_up_gesture_title">Podnieś</string>
+    <string name="pick_up_gesture_summary">Pulsujące powiadomienia podczas podnoszenia</string>
     <!-- Pocket gesture -->
     <!-- Proximity wake -->
     <!-- Device actions -->
@@ -64,7 +95,6 @@
     <!-- Action toggles -->
     <!-- Feedback intensity -->
     <!-- Dialog texts -->
-    <string name="dialog_ok">OK</string>
     <!-- Generic texts -->
     <!-- Help texts -->
     <!-- Button settings -->
