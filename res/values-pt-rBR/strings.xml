@@ -26,7 +26,6 @@
     <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">Gestos</string>
     <!-- Touchscreen gesture haptic feedback -->
-    <string name="touchscreen_gesture_extras">Extras</string>
     <string name="touchscreen_gesture_haptic_feedback">Retorno tátil</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Vibrar ao detectar um gesto na tela</string>
     <!-- Touchscreen gestures -->
@@ -86,7 +85,6 @@
     <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Pegar</string>
     <string name="pick_up_gesture_summary">Mostrar as notificações ao pegar no dispositivo</string>
-    <string name="pick_up_wake_gesture_summary">Wake device on pick-up</string>
     <!-- Pocket gesture -->
     <string name="pocket_gesture_title">Bolso</string>
     <string name="pocket_gesture_summary">Pulsar notificações após remover do bolso</string>
@@ -125,7 +123,6 @@
     <string name="feedback_intensity_medium">Média</string>
     <string name="feedback_intensity_high">Alta</string>
     <!-- Dialog texts -->
-    <string name="dialog_ok">OK</string>
     <!-- Generic texts -->
     <string name="disabled">Desativado</string>
     <!-- Help texts -->
@@ -155,6 +152,4 @@
     <string name="camera_focus_fix_title">Travar foco da câmera</string>
     <string name="camera_focus_fix_summary">Ative se você tiver problemas com o foco da câmera</string>
     <!-- Wake on gesture -->
-    <string name="wake_on_gesture_title">Wake up on gestures</string>
-    <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
 </resources>
