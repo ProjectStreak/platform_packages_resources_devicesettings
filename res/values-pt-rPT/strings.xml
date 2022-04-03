@@ -26,7 +26,6 @@
     <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">Gestos</string>
     <!-- Touchscreen gesture haptic feedback -->
-    <string name="touchscreen_gesture_extras">Extras</string>
     <string name="touchscreen_gesture_haptic_feedback">Vibrar ao tocar</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">Vibrar quando é detetado um gesto no ecrã</string>
     <!-- Touchscreen gestures -->
@@ -125,7 +124,6 @@
     <string name="feedback_intensity_medium">Média</string>
     <string name="feedback_intensity_high">Alta</string>
     <!-- Dialog texts -->
-    <string name="dialog_ok">OK</string>
     <!-- Generic texts -->
     <string name="disabled">Desativada</string>
     <!-- Help texts -->
